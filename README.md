@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ClarkGH
-- 👀 I’m interested in food
-- 🌱 I’m currently learning coffee
-- 💞️ I’m looking to collaborate on dessert
-- 📫 How to reach me idk
+- 👋 Hi, I’m Clark
+- 👀 I’m interested in discovering new music, cooking, and learning new things
+- 🌱 I’m currently learning all the things
+- 💞️ I’m looking to collaborate on being human
+- 📫 How to reach me - Offer to buy me coffee via LinkedIn
 
 <!---
 ClarkGH/ClarkGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
