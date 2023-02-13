@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all the things
 - 💞️ I am not a robot
 - I am a Frontend Dev with a love for compositional componentization.
-- 📫 How to reach me - Offer to buy me coffee via LinkedIn
+- 📫 How to reach me - Say hi via linkedin, show me something you're building.
 
 <!---
 ClarkGH/ClarkGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
