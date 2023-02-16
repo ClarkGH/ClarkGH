@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Clark
 - 👀 I’m interested in all the things.
 - 🌱 I'm doing all the codes.
-- 💞️ Definitely not a robot.
-- 😎 I'm an experienced Frontend Dev with a love for compositional componentization.
+- 🦾 Definitely not a robot.
+- 😎 An experienced Frontend Dev with a love for compositional componentization.
 - 📫 How to reach me - Say hi via linkedin, show me something you're building.
 
 <!---
