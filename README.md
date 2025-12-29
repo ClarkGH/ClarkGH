@@ -1,4 +1,4 @@
-😎 An experienced Frontend Dev with a love for compositional componentization.
+😎 An experienced Frontend Dev and Software Architect with a love for compositional componentization.
 
 🍔 Can make 4 different types of hamburgers from scratch thanks to George Motz's educational videos
 
